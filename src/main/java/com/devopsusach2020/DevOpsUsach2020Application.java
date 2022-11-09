@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DevOpsUsach2020Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DevOpsUsach2020Application.class, args);
+		SpringApplication.run( DevOpsUsach2020Application.class, args );
 	}
 
 }
